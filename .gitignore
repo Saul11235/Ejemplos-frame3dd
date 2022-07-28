@@ -1,9 +1,9 @@
-*.pyc
-*.swp
 *.out
+*.swp
+*.plt
+*.pyc
 *.csv
 *.CSV
-*.gp
-*.plt
 
 /pycache
+

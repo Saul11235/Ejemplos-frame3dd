@@ -1,9 +1,0 @@
-*.pyc
-*.swp
-*.out
-*.csv
-*.CSV
-*.gp
-*.plt
-
-/pycache

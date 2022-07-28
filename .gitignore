@@ -4,6 +4,7 @@
 *.pyc
 *.csv
 *.CSV
+*.if01
 
 /pycache
 

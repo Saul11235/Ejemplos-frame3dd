@@ -1,2 +1,5 @@
 # Ejemplos-frame3dd
-ejemplos en espan'ol del uso de este programa de calculo estructural
+ejemplos en espanñol del uso de este programa de calculo estructural.
+para mas info sobre frame3dd en su sitio web
+[Link Aquí](http://frame3dd.sourceforge.net/)
+
